@@ -1,12 +1,12 @@
 <div align="center">
 
-# Prerna
+# Prerna Sharma
 
 **Full-Stack Developer · CSE Undergrad @ BPIT, Delhi**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5B942&background=00000000&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Next.js+%26+TypeScript;400%2B+LeetCode+problems+solved+%C2%B7+20%2B+contests;Top+5+%40+Brewing+Codes+4.0+%C2%B7+SIH+Qualifier;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5B942&background=00000000&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Next.js+%26+TypeScript;400%2B+LeetCode+problems+solved+%C2%B7+20%2B+contests;Top+5+%40+Brewing+Codes+4.0+%C2%B7;" alt="Typing SVG" />
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-PORTFOLIO-URL.com) · [Email](mailto:YOUR-EMAIL@example.com) · [LeetCode](https://leetcode.com/YOUR-LEETCODE)
+[LinkedIn](https://www.linkedin.com/in/prerna-sharma-b3001b335) · [Portfolio](https://prerna--portfolio.vercel.app/) · [Email](mailto:sprerna288@gmail.com) · [LeetCode](https://leetcode.com/PrernaS_20)
 
 </div>
 
@@ -26,7 +26,7 @@ Third-year B.Tech CSE student at Bhagwan Parshuram Institute of Technology, Delh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,vercel&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,docker,git,github,vercel,redux,postman, &theme=dark&perline=6" />
 
 </div>
 
